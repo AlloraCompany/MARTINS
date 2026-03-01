@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Next.js build/cache
+.next/
+out/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.DS_Store
